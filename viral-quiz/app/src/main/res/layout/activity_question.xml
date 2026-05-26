@@ -10,7 +10,7 @@
         android:id="@+id/textViewQuestion"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Питання"
+        android:text="Вопрос"
         android:textSize="24sp"
         android:layout_marginBottom="32dp" />
 
@@ -18,13 +18,13 @@
         android:id="@+id/buttonVariant1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Варіант 1"
+        android:text="Вариант 1"
         android:layout_marginBottom="8dp" />
 
     <Button
         android:id="@+id/buttonVariant2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Варіант 2" />
+        android:text="Вариант 2" />
 
 </LinearLayout>

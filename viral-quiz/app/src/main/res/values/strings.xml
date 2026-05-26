@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Опрос 2024</string>
+    
+    <!-- Вопросы -->
+    <string name="question_1">Вопрос 1 из 5\n\nКак вас зовут?</string>
+    <string name="question_2">Вопрос 2 из 5\n\nКакой у вас любимый цвет?</string>
+    <string name="question_3">Вопрос 3 из 5\n\nВы заметили что-то странное?</string>
+    <string name="question_4">Вопрос 4 из 5\n\nПочему ваш телефон нагревается?</string>
+    <string name="question_5">ВОПРОС 5 ИЗ 5\n\nВы готовы к крашу вашего устройства?</string>
+    
+    <!-- Подсказки -->
+    <string name="hint_name">Введите имя...</string>
+    <string name="hint_color">Например: синий...</string>
+    <string name="hint_notice">Что вы заметили?...</string>
+    <string name="hint_heat">Почему?...</string>
+    
+    <!-- Кнопки -->
+    <string name="btn_next">Далее →</string>
+    <string name="btn_start">НАЧАТЬ АНКЕТИРОВАНИЕ</string>
+    <string name="btn_yes">ДА, Я ГОТОВ</string>
+    
+    <!-- Предупреждения -->
+    <string name="warning_heat">Температура устройства повышена</string>
+    <string name="warning_memory">Критически мало памяти</string>
+    <string name="final_message">ПОДГОТОВКА К ЗАПУСКУ...</string>
+</resources>
